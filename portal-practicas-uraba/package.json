@@ -1,0 +1,9 @@
+{
+  "name": "portal-practicas-profesionales-uraba",
+  "version": "1.0.0",
+  "description": "Portal de prácticas profesionales para la región de Urabá",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
